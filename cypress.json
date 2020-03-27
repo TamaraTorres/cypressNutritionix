@@ -5,9 +5,9 @@
     "ContentType": "application/json",
 
     "urlNutrients":"https://trackapi.nutritionix.com/v2/natural/nutrients",
-    "urlSearch":"/search/instant",
-    "urlSearchItem":"/search/item",
-    "urlExercise":"/natural/exercise",
-    "urlLocation":"/locations"
+    "urlSearch":"https://trackapi.nutritionix.com/v2/search/instant",
+    "urlSearchItem":"https://trackapi.nutritionix.com/v2/search/item",
+    "urlExercise":"https://trackapi.nutritionix.com/v2/natural/exercise",
+    "urlLocation":"https://trackapi.nutritionix.com/v2/locations"
 }
   
