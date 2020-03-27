@@ -1,4 +1,13 @@
 {
-   
-}
+    "baseUrl": "https://trackapi.nutritionix.com/v2",
+    "appId": "de22869d",
+    "appKey": "0c1acd9d5b6ee240a650a27277f58e7b",
+    "ContentType": "application/json",
 
+    "urlNutrients":"https://trackapi.nutritionix.com/v2/natural/nutrients",
+    "urlSearch":"/search/instant",
+    "urlSearchItem":"/search/item",
+    "urlExercise":"/natural/exercise",
+    "urlLocation":"/locations"
+}
+  
